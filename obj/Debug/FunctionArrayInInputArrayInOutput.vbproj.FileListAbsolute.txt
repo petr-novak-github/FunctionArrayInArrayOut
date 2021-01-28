@@ -1,0 +1,11 @@
+C:\Users\petr8\Desktop\visual_basic-rekvalifikace\ucim_se_2021-01-28\FunkcePoleVstupIVystup\stuff\FunctionArrayInInputArrayInOutput\bin\Debug\FunctionArrayInInputArrayInOutput.exe.config
+C:\Users\petr8\Desktop\visual_basic-rekvalifikace\ucim_se_2021-01-28\FunkcePoleVstupIVystup\stuff\FunctionArrayInInputArrayInOutput\bin\Debug\FunctionArrayInInputArrayInOutput.exe
+C:\Users\petr8\Desktop\visual_basic-rekvalifikace\ucim_se_2021-01-28\FunkcePoleVstupIVystup\stuff\FunctionArrayInInputArrayInOutput\bin\Debug\FunctionArrayInInputArrayInOutput.pdb
+C:\Users\petr8\Desktop\visual_basic-rekvalifikace\ucim_se_2021-01-28\FunkcePoleVstupIVystup\stuff\FunctionArrayInInputArrayInOutput\bin\Debug\FunctionArrayInInputArrayInOutput.xml
+C:\Users\petr8\Desktop\visual_basic-rekvalifikace\ucim_se_2021-01-28\FunkcePoleVstupIVystup\stuff\FunctionArrayInInputArrayInOutput\obj\Debug\FunctionArrayInInputArrayInOutput.vbprojAssemblyReference.cache
+C:\Users\petr8\Desktop\visual_basic-rekvalifikace\ucim_se_2021-01-28\FunkcePoleVstupIVystup\stuff\FunctionArrayInInputArrayInOutput\obj\Debug\FunctionArrayInInputArrayInOutput.Resources.resources
+C:\Users\petr8\Desktop\visual_basic-rekvalifikace\ucim_se_2021-01-28\FunkcePoleVstupIVystup\stuff\FunctionArrayInInputArrayInOutput\obj\Debug\FunctionArrayInInputArrayInOutput.vbproj.GenerateResource.cache
+C:\Users\petr8\Desktop\visual_basic-rekvalifikace\ucim_se_2021-01-28\FunkcePoleVstupIVystup\stuff\FunctionArrayInInputArrayInOutput\obj\Debug\FunctionArrayInInputArrayInOutput.vbproj.CoreCompileInputs.cache
+C:\Users\petr8\Desktop\visual_basic-rekvalifikace\ucim_se_2021-01-28\FunkcePoleVstupIVystup\stuff\FunctionArrayInInputArrayInOutput\obj\Debug\FunctionArrayInInputArrayInOutput.exe
+C:\Users\petr8\Desktop\visual_basic-rekvalifikace\ucim_se_2021-01-28\FunkcePoleVstupIVystup\stuff\FunctionArrayInInputArrayInOutput\obj\Debug\FunctionArrayInInputArrayInOutput.xml
+C:\Users\petr8\Desktop\visual_basic-rekvalifikace\ucim_se_2021-01-28\FunkcePoleVstupIVystup\stuff\FunctionArrayInInputArrayInOutput\obj\Debug\FunctionArrayInInputArrayInOutput.pdb
